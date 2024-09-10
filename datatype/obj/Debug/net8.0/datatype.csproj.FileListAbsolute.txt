@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C sharp\datatype\bin\Debug\net8.0\datatype.exe
+C:\Users\hp\Desktop\C sharp\datatype\bin\Debug\net8.0\datatype.deps.json
+C:\Users\hp\Desktop\C sharp\datatype\bin\Debug\net8.0\datatype.runtimeconfig.json
+C:\Users\hp\Desktop\C sharp\datatype\bin\Debug\net8.0\datatype.dll
+C:\Users\hp\Desktop\C sharp\datatype\bin\Debug\net8.0\datatype.pdb
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.AssemblyInfo.cs
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.dll
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\refint\datatype.dll
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.pdb
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\datatype.genruntimeconfig.cache
+C:\Users\hp\Desktop\C sharp\datatype\obj\Debug\net8.0\ref\datatype.dll
